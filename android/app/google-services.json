@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655764892011",
+    "project_id": "vibecheck-d34fe",
+    "storage_bucket": "vibecheck-d34fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655764892011:android:15ed57415d4cd0afb6842e",
+        "android_client_info": {
+          "package_name": "com.vrajgodhani.vibecheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHErxRbxNFq5zHiejMAOVBVyHsgD8pbZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
